@@ -6,7 +6,8 @@
        width="150"
        height="90">
 	<hr>
-
+	<head>
+	</head>
 	<body>
 		<center>
 	<h1><strong><em>BIENVENIDO AL UF<br>
