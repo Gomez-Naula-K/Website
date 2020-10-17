@@ -6,9 +6,7 @@
        width="150"
        height="90">
 	<hr>
-	<head>
-		<title>Instituto Superior Universitario de Formacion UF - Inicio</title>
-	</head>
+
 	<body>
 		<center>
 	<h1><strong><em>BIENVENIDO AL UF<br>
